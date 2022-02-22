@@ -107,7 +107,7 @@
                   </value>
                 </argument>
                 <argument id="locatorDescription">
-                  <value class="value" valueClass="string">With Lead rows {Name = "saurab"}</value>
+                  <value class="value" valueClass="string">With Lead rows {Name = "saurabh kumar"}</value>
                 </argument>
                 <argument id="failIfNotFound">
                   <value class="value" valueClass="boolean">true</value>
